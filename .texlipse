@@ -1,0 +1,14 @@
+#TeXlipse project settings
+#Fri Jan 15 15:02:54 CET 2016
+markTmpDer=true
+builderNum=2
+outputDir=
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=tmp
+mainTexFile=GuV_BNB_VG_WDZ.tex
+outputFile=GuV_BNB_VG_WDZ.pdf
+langSpell=de
+markDer=true
+srcDir=
